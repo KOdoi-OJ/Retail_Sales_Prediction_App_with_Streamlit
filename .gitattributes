@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+streamlit_src/merged_data.csv filter=lfs diff=lfs merge=lfs -text
+streamlit_src/ML_toolkit filter=lfs diff=lfs merge=lfs -text
