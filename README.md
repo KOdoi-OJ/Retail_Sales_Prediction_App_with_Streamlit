@@ -40,8 +40,20 @@ Ideally, it should open your browser with the app in a new tab, if it doesn't, t
 
       http://localhost:8501
 
+## Screenshots
+
+<table>
+    <tr>
+        <th> Streamlit Retail Prediction App </th>
+        <th> App Interface with predictions </th>
+    </tr>
+    <tr>
+        <td><img src= "screenshots\App_interface.png" /></td>
+        <td><img src= "screenshots\App_with_prediction.png" /></td>
+    </tr>
+</table>
+
 ## Contact Information
 
-- [Kwame Otchere](https://www.linkedin.com/in/kwame-odoi-otchere/)
-- [Landing Page](https://kodoi-oj.github.io/)
+- [Kwame Otchere](https://kodoi-oj.github.io/)
 - [![Twitter](https://img.shields.io/twitter/follow/kwameoo_?style=social)](https://twitter.com/kwameoo_)
